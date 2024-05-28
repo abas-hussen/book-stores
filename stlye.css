@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+    align-items: center;
+    font-family: ;
+    font-size: ;
+    text-align: center;
+    text-decoration: ;
+    color: ;
+    text-overflow: clip;
+    text-underline-offset: none;
+}
